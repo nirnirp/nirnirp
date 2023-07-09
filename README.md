@@ -1,5 +1,5 @@
 ### You're probably here for a reason.
-So, there you go - the answer to all of your questions:  [1Click here](http://www.staggeringbeauty.com)
+The answer to all of your questions  [Here](http://www.staggeringbeauty.com).
 
 .
 
