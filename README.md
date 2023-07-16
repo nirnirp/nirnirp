@@ -1,4 +1,4 @@
-The answer to all of your questions  [Here](http://www.staggeringbeauty.com).
+**The answer to all of your questions  [Here](http://www.staggeringbeauty.com).**
 
 
 
