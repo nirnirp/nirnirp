@@ -1,0 +1,29 @@
+name: Update Daily Cat Picture
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+
+jobs:
+  update-cat-picture:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch random cat picture
+        run: curl -s https://api.thecatapi.com/v1/images/search | jq -r '.[0].url' > cat_picture_url.txt
+
+      - name: Update README
+        run: |
+          CAT_URL=$(cat cat_picture_url.txt)
+          sed -i '/<!-- START_CAT_PICTURE -->/,/<!-- END_CAT_PICTURE -->/c\<!-- START_CAT_PICTURE -->\n![Daily Cat]('$CAT_URL')\n<!-- END_CAT_PICTURE -->' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update daily cat picture"
+          git push
