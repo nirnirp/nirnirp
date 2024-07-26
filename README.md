@@ -1,4 +1,5 @@
-<center>
+<div style="text-align:center">
+
 **The answer to all of your questions  [Here](http://www.staggeringbeauty.com).**
 
 
@@ -10,4 +11,4 @@
 ![Daily Cat](https://cdn2.thecatapi.com/images/4au.gif)
 <!-- END_CAT_PICTURE -->
 
-</center>
+</div>
