@@ -6,5 +6,5 @@
 
 ### Daily Cat Picture
 <!-- START_CAT_PICTURE -->
-![Daily Cat](https://example.com/initial-cat-picture.jpg)
+![Daily Cat](https://cdn2.thecatapi.com/images/4au.gif)
 <!-- END_CAT_PICTURE -->
