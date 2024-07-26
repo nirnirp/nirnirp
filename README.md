@@ -2,5 +2,5 @@
 
 ### Here's Your Daily Cat Picture.
 <!-- START_CAT_PICTURE -->
-![Daily Cat](https://cdn2.thecatapi.com/images/MjA3NDMzMg.jpg)
+![Daily Cat](https://cdn2.thecatapi.com/images/cqp.jpg)
 <!-- END_CAT_PICTURE -->
