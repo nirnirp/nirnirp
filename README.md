@@ -1,3 +1,4 @@
+<center>
 **The answer to all of your questions  [Here](http://www.staggeringbeauty.com).**
 
 
@@ -8,3 +9,5 @@
 <!-- START_CAT_PICTURE -->
 ![Daily Cat](https://cdn2.thecatapi.com/images/4au.gif)
 <!-- END_CAT_PICTURE -->
+
+</center>
