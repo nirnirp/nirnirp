@@ -1,5 +1,4 @@
 <p align="center">
-  
 **The answer to all of your questions  [Here](http://www.staggeringbeauty.com).** 
 </p>
 
