@@ -3,5 +3,5 @@
 ### Oh, And Here's Your Daily Cat Picture.
 (I am not responsible for the content below)
 <!-- START_CAT_PICTURE -->
-![Daily Cat](https://cdn2.thecatapi.com/images/d3f.jpg)
+![Daily Cat](https://cdn2.thecatapi.com/images/MTc2MDI4MA.jpg)
 <!-- END_CAT_PICTURE -->
